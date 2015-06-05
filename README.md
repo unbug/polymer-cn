@@ -5,7 +5,7 @@
 曾经我也像你一样想开个论坛，直到我的膝盖中了一箭...
 
 ### 如何提问？
-提一个 issue 就可以了。提问前建议你看看 Closed issue 里有没有相关问题。
+提一个 issue 就可以了。提问前建议你看看 Closed issues 里有没有相关问题。
 
 ### 如何参与 Polymer 1.0 中文文档翻译？
 参看[Polymer 1.0 中文文档翻译必读指南](https://github.com/unbug/docs/blob/zh1.0.0/CONTRIBUTING-ZH.md)
