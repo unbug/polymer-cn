@@ -15,5 +15,5 @@
  - Polymer 微博 [@Polymer中文社区](http://weibo.com/u/3631834213?from=profile&wvr=5&loc=infdomain)
  - QQ群：208264834
  - Polymer 中文社区的[Slack channel](https://polymer-cn.herokuapp.com/)
- - Polymer 中文社区微信群
+ - Polymer 中文社区微信群（如果二维码过期请到QQ群里问一下）
  - ![wechat](https://github.com/unbug/polymer-cn/blob/master/wechat.jpg)
